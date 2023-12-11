@@ -51,5 +51,5 @@ _23.02.2022_
 # 2021
 ### eShopOnAbp
 _16.12.2021_
-- [Presentation](https://docs.google.com/presentation/d/132iCSbud5D3kajVEHotArg0rUcB3elM28YA9OqeHEyI/edit?usp=sharing)
-- [Watch on YouTube](https://www.youtube.com/live/uLu2t5E8T-w?si=mGnHDsKB_MIvPYKw&t=3687)
+- 🖼️ [Presentation](https://docs.google.com/presentation/d/132iCSbud5D3kajVEHotArg0rUcB3elM28YA9OqeHEyI/edit?usp=sharing)
+- 🔴 [Watch on YouTube](https://www.youtube.com/live/uLu2t5E8T-w?si=mGnHDsKB_MIvPYKw&t=3687)
